@@ -31,6 +31,7 @@ export interface WeatherData {
     feelslike: number
     tempmin: number
     temp_max: number
+    temp_min: number
     pressure: number
     humidity: number
   }
